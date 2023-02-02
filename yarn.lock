@@ -6099,10 +6099,10 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   "version" "17.0.2"
 
-"react-native-adapty@^2.2.1":
-  "integrity" "sha512-XC0hXluuT+a49Bnj8pn/0PLq1EFUt2DTW066/MdTmAtQyDP0sNUozxbBTwdCkbp3FDHYEUKep0t7kl7uDUoj/A=="
-  "resolved" "https://registry.npmjs.org/react-native-adapty/-/react-native-adapty-2.2.1.tgz"
-  "version" "2.2.1"
+"react-native-adapty@^2.3.0":
+  "integrity" "sha512-0kbTwWtYefXkmwICu1PBh/xk0BEIjl3bRVmSJn3hU7xCY1+EKCBD77GG9LysgSLmucK6Oe+yFyUygmvRjan46w=="
+  "resolved" "https://registry.npmjs.org/react-native-adapty/-/react-native-adapty-2.3.0.tgz"
+  "version" "2.3.0"
 
 "react-native-codegen@^0.70.6":
   "integrity" "sha512-kdwIhH2hi+cFnG5Nb8Ji2JwmcCxnaOOo9440ov7XDzSvGfmUStnCzl+MCW8jLjqHcE4icT7N9y+xx4f50vfBTw=="
